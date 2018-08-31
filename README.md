@@ -1,14 +1,9 @@
 # rads-rf-template
 
-A Leiningen template for FIXME.
+A minimal template for a web app with Re-frame.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+```shell
+lein new rads-rf foo
+```
